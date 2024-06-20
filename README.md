@@ -18,14 +18,4 @@ This is a classic game where two players take turns marking spaces on a 3x3 grid
 - `style.css`: Contains the CSS styles for the game layout and appearance.
 - `script.js`: Contains the JavaScript code for game logic and interaction.
 
-## Game Features
 
-- Simple and intuitive user interface.
-- Visual indication of player turns and game outcomes.
-- Responsive design for compatibility with various screen sizes.
-
-## Usage
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
-3. Play the game by clicking on the cells to make your moves.
